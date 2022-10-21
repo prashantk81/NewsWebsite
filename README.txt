@@ -1,6 +1,6 @@
-# NewsWebsite
+# SSD_ASSIGNMENT_3
 
-News Website based on javascript and bootstrap
+In Q3-
 
 1.) I've used Bootstrap for styling purpose.
 2.) I've fetched some news from https://newsapi.org/ and kept it in the file.json file present in Q3 folder.

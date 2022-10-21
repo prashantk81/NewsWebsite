@@ -1,0 +1,24 @@
+body {
+  background: linear-gradient(to bottom left, #9999ff 0%, #66ff99 87%);
+
+   }
+.nav{
+    margin: auto;
+    font-size: 40px;
+    background-color: rgb(55, 55, 57);
+    color: rgb(92, 147, 195);
+    height: 70px;
+}
+.main{
+    height: 500px;
+}
+.container{
+    width: 900px;
+}
+
+.ig{
+    height: 250px;
+    width: 250px;
+    margin: 30px;
+}
+
